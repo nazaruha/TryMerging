@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("nazar_master commit");
+            Console.WriteLine("nazar_master commit2");
         }
     }
 }
